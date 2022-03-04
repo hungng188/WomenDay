@@ -45,7 +45,7 @@ body {
     --color-bg: #832f05;
     --color-link: #ffffff;
     --color-link-hover: #000;
-    --color-content-title-sub: #ec9e34;
+    --color-content-title-sub: #e051cd;
     --cursor-stroke: #000000;
     --cursor-fill: none;
     --cursor-stroke-width: 1px;
@@ -266,11 +266,11 @@ a:focus {
 }
 
 .content__title-sub {
-	color: var(--color-content-title-sub);
-	font-size: 4vw;
+	color:#e984cb;
+	font-size: 3vw;
 	display: block;
-	margin-left: 3vw;
-	line-height: 0.5;
+	margin-left:3vw;
+	line-height:1.5;
 }
 
 .cursor {
